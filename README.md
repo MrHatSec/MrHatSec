@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 # 不忘初心，砥砺前行❤
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 ## I’m MrHat
 - 一名热爱Web安全的小学生👦🏻
 - 保持热爱，一直在路上
-
-
-
 
 
 ## Github stats
