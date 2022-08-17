@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 一名热爱Web安全的小学生👦🏻
 - 保持热爱，一直在路上
 
-### Github stats
+## Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=MrHatSec&show_icons=true&include_all_commits=true&count_private=false&layout=compact&hide=prs&theme=cobalt" alt="Github stats"/>
 
-### Visitors
+## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/MrHatSec/count.svg)
