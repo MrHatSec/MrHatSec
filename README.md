@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 不忘初心，砥砺前行❤
 ![](./images/header_.png)
+
+# 不忘初心，砥砺前行❤
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 ## I’m MrHat
